@@ -1,4 +1,4 @@
-# 🛒 IntelliCart – Smart Shopping Trolley
+# IntelliCart – Smart Shopping Trolley
 
 ### An RFID-Based Automated Shopping and Billing System Using ESP32 and Firebase
 
@@ -8,7 +8,7 @@ The system uses an ESP32 microcontroller to manage product scanning, shopping ca
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Traditional shopping often involves manually checking product prices, waiting in long billing queues and depending on cashier-operated billing systems.
 
@@ -16,7 +16,7 @@ IntelliCart addresses these challenges by allowing customers to scan products di
 
 The system also supports UPI and cash payment options, along with digital bill generation after payment.
 
-## 🎯 Objectives
+## Objectives
 
 - Reduce waiting time at traditional billing counters.
 - Automate product identification using RFID technology.
@@ -27,7 +27,7 @@ The system also supports UPI and cash payment options, along with digital bill g
 
 ---
 
-## ⚙️ Working Principle
+## Working Principle
 
 ### 1. System Initialization
 
@@ -62,7 +62,7 @@ After payment, the system generates a digital bill through a web-based interface
 
 ---
 
-## 🔩 Hardware Components
+## Hardware Components
 
 | Component | Function |
 |---|---|
@@ -75,7 +75,7 @@ After payment, the system generates a digital bill through a web-based interface
 
 ---
 
-## 💻 Software and Technologies
+## Software and Technologies
 
 | Technology | Application |
 |---|---|
@@ -90,7 +90,7 @@ After payment, the system generates a digital bill through a web-based interface
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **RFID-Based Product Scanning:** Identifies products through unique RFID tags.
 - **Cloud-Based Product Database:** Retrieves product information from Firebase.
@@ -104,7 +104,7 @@ After payment, the system generates a digital bill through a web-based interface
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 
 The following improvements are planned for future development:
 
@@ -130,7 +130,7 @@ Implement automated payment verification and transaction management for a more r
 
 ---
 
-## 👨‍💻 Project Information
+## Project Information
 
 **Project Name:** IntelliCart – Smart Shopping Trolley
 
@@ -146,10 +146,10 @@ Implement automated payment verification and transaction management for a more r
 
 ---
 
-## 🙌 Acknowledgement
+## Acknowledgement
 
 This project was developed as part of an academic mini-project with the objective of applying embedded systems, IoT communication and automation technologies to improve the traditional shopping experience.
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository and its implementation.
+If you find this project interesting, feel free to explore the repository and its implementation.
